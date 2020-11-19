@@ -9,6 +9,7 @@ tags:
   - classification
   - computer-vision
 author: Jocelyn Ong
+layout: posts
 ---
 Using machine learning algorithms to identify species of fish
 

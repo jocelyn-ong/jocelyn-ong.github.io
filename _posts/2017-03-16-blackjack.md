@@ -5,6 +5,7 @@ tags:
   - python
   - blackjack
 author: Jocelyn Ong
+layout: posts
 ---
 Blackjack - An initial look at the game
 

@@ -5,6 +5,7 @@ tags:
   - python
   - blackjack
 author: Jocelyn Ong
+layout: posts
 ---
 Blackjack - Can we win?
 

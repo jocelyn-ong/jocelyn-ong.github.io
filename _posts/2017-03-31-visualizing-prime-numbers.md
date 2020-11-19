@@ -5,6 +5,7 @@ tags:
   - visualizations
   - math
 author: Jocelyn Ong
+layout: posts
 ---
 Visualization of prime numbers - is there a pattern?
 

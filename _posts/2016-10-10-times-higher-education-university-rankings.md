@@ -9,6 +9,7 @@ tags:
   - visualizations
   - regression
 author: Jocelyn Ong
+layout: posts
 ---
 In-class challenge: Using the data from the years 2011 to 2015, can we predict the scores for 2016?
 

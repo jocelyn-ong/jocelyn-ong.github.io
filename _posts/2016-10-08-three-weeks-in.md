@@ -3,6 +3,7 @@ tags:
   - dsi
   - thoughts
 author: Jocelyn Ong
+layout: posts
 ---
 I'm three weeks into my 12-week Data Science Immersive - it's a good time to look back on how these three weeks have passed and what I have gained from it.
 

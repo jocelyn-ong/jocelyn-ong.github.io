@@ -5,6 +5,7 @@ tags:
   - data-science
   - computer-vision
 author: Jocelyn Ong
+layout: posts
 ---
 Where I am now in my data science journey
 

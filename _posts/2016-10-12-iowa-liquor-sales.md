@@ -9,6 +9,7 @@ tags:
   - visualizations
   - regression
 author: Jocelyn Ong
+layout: posts
 ---
 Where in Iowa should we open a liquor store?
 

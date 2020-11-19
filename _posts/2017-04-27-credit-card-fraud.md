@@ -6,6 +6,7 @@ tags:
   - classification
   - neuralnets
 author: Jocelyn Ong
+layout: posts
 ---
 Detecting credit card fraud cases using anonymized data
 

@@ -9,6 +9,7 @@ tags:
   - unsupervised-learning
   - projects
 author: Jocelyn Ong
+layout: posts
 ---
 Understanding the SciPy code behind hierarchical clustering
 

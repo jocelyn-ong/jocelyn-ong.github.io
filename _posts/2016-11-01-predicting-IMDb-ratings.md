@@ -9,6 +9,7 @@ tags:
   - imdb
   - web-scraping
 author: Jocelyn Ong
+layout: posts
 ---
 What affects the rating of a movie on IMDb?
 

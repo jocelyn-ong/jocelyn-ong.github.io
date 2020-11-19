@@ -11,6 +11,7 @@ tags:
   - clustering
   - unsupervised-learning
 author: Jocelyn Ong
+layout: posts
 ---
 Running principal component analysis and clustering algorithms on airport delays, cancellations and diversions.
 
