@@ -2,7 +2,8 @@
 layout: archive
 author_profile: true
 ---
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+{{ page.date | date: '%B %d, %Y' }}
+By {{ page.author }}
 
 {{ content }}
 
