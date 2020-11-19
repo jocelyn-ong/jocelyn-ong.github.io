@@ -10,6 +10,7 @@ tags:
   - projects
 author: Jocelyn Ong
 layout: posts
+toc: true
 ---
 Understanding the SciPy code behind hierarchical clustering
 
