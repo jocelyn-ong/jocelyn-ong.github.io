@@ -6,6 +6,7 @@ tags:
   - classification
 author: Jocelyn Ong
 layout: posts
+author_profile: true
 ---
 Predicting whether a loan application to Lending Club will be approved
 
