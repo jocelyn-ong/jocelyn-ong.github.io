@@ -5,6 +5,7 @@ tags:
   - python
   - classification
 author: Jocelyn Ong
+layout: posts
 ---
 Predicting whether a loan application to Lending Club will be approved
 

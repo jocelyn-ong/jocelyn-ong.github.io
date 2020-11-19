@@ -3,6 +3,7 @@ tags:
   - thoughts
 
 author: Jocelyn Ong
+layout: posts
 ---
 This is where I start my journey into the world of data.
 
